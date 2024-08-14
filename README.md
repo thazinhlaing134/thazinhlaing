@@ -1,4 +1,4 @@
-# Sale Monitor-Dashboard
+# Sale Analysis Report Dashboard
 
 ### Dashboard Link : 
 https://app.powerbi.com/view?r=eyJrIjoiMmJjZjIyZWUtNWUwNy00ZTJjLTk2NjUtM2VjYzAxMDljODUwIiwidCI6IjJkZmJlMjkzLWI5NTMtNDI0OC1iZjhhLWIxMWZhYWZiMWRlNCIsImMiOjEwfQ%3D%3D
